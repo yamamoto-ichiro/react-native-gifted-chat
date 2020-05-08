@@ -412,14 +412,6 @@ class GiftedChat<TMessage extends IMessage = IMessage> extends React.Component<
     }
   }
 
-  // getChildContext() {
-  //   return {
-  //     actionSheet:
-  //       this.props.actionSheet || (() => this._actionSheetRef.getContext()),
-  //     getLocale: this.getLocale,
-  //   }
-  // }
-
   componentDidMount() {
     const { messages, text } = this.props
     this.setIsMounted(true)
