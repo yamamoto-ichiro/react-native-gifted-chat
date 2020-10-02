@@ -1,4 +1,4 @@
-# React Native Chat App
+# React Native Gifted Chat App
 <p align="center" >
 <p align="center" >
    <a href="https://reactnative.gallery/FaridSafi/gifted-chat">
